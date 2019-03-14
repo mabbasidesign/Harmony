@@ -9,7 +9,7 @@ const SideDrawer = (props) => {
         <Drawer
             anchor="right"
             open={props.open}
-            close={() => props.onClose(false)}
+            onClose={() => props.onClose(false)}
         >
             <List>
                 <ListItem button onClick={() => console.log("Featured")}>
