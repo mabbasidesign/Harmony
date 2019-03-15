@@ -5,6 +5,7 @@ import Featured from './components/featured/index';
 import VunueNfo from './components/venueInfo/Index';
 import Highlights from './components/highlights/Index';
 import Pricing from './components/pricing/Index';
+import Location from './components/location/Index';
 
 class App extends Component {
   render() {
@@ -15,6 +16,7 @@ class App extends Component {
          <VunueNfo />
          <Highlights />
          <Pricing />
+         <Location />
       </div>
     );
   }

@@ -14,7 +14,6 @@ class Pricing extends Component {
         ],
         linkto:['http://sales/b','http://sales/m','http://sales/s'],
         delay:[500,0,500]
-
     }
 
     showBoxes = () => (
