@@ -44,7 +44,6 @@ class Heder extends Component {
                 position="fixed"
                 style={{ 
                     backgroundColor: this.state.headerShow ? "#2f2f2f": "transparent",
-                    // backgroundColor: "#2f2f2f",
                     boxShadow: "none",
                     padding: "10px 0"
                  }}

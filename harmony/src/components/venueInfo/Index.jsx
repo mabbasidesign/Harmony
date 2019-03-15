@@ -48,7 +48,7 @@ const VunueNfo = () => {
                                         Event Location
                                     </div>
                                     <div className="vn_desc">
-                                        345 Speer Street Oakland, CA 9835
+                                        345 Speer Street Toronto, ON 9835
                                     </div>
                                 </div>
                             </div>
