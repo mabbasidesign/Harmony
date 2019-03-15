@@ -13,5 +13,5 @@ const Discription = () => {
         </Fade>
     );
 }
- 
+
 export default Discription;

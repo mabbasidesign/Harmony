@@ -8,7 +8,7 @@ import Highlights from './components/highlights/Index';
 class App extends Component {
   render() {
     return (
-      <div className="App" style={{ height: "1500px", backgroundColor: 'blue' }}>
+      <div className="App">
          <Header />
          <Featured />
          <VunueNfo />
